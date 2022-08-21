@@ -1,8 +1,8 @@
 import './App.css';
 import React from 'react';
-import Calculator from './components/Calculator';
+import Calculator from './components/calculator/Calculator';
 
-export class App extends React.Component {
+class App extends React.Component {
   
   render () {
     return (
